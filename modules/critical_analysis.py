@@ -6,7 +6,7 @@ Provides text analysis, editing and generate summaries for the document analyzer
 Also assess methodology if appropriate.
 
 Author: Walter Ochieng
-Email: ocu9@cdc.gov
+Email: obierochieng@gmail.com
 Version: 1.0.0
 Date: 2025-01-21
 License: MIT
