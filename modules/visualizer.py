@@ -6,7 +6,7 @@ Generates visual representations of text data including word clouds,
 frequency distributions, and readability metrics charts.
 
 Author: Walter Ochieng
-Email: ocu9@cdc.gov
+Email: obierochieng@gmail.com
 Version: 1.0.0
 Date: 2025-01-21
 License: MIT
