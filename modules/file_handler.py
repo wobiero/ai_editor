@@ -6,7 +6,7 @@ Manages local file operations for the Streamlit Document Editor,
 including file reading, writing, and format conversions.
 
 Author: Walter Ochieng
-Email: ocu9@cdc.gov
+Email: obierochieng@gmail.com
 Version: 1.0.0
 Date: 2025-01-21
 License: MIT
